@@ -9,11 +9,14 @@ The primary purpose of the project is to create an efficient and user-friendly E
 
 # Users: 
 The project caters to three main user roles: Vendors, Customers, and Admins. Vendors are responsible for adding, updating, and removing their products. Customers can browse products, add them to their shopping carts, and place orders. Admins, on the other hand, manage the overall platform, including user accounts, product listings, and system functionalities.
-User Interaction: Customers interact with the system by signing up, logging in, and navigating through product categories. They can search for products, view details, add items to their shopping carts, and place orders. Vendors interact by adding their products, setting quantities and prices, and potentially offering discounts. Admins oversee and manage the entire system, ensuring smooth operations and resolving issues.
+
+# User Interaction:
+Customers interact with the system by signing up, logging in, and navigating through product categories. They can search for products, view details, add items to their shopping carts, and place orders. Vendors interact by adding their products, setting quantities and prices, and potentially offering discounts. Admins oversee and manage the entire system, ensuring smooth operations and resolving issues.
 
 # Vendor's Product Management:
 Vendors play a crucial role in managing their product listings. They can add new products, update existing ones, and remove items from the inventory. This functionality ensures that vendors have control over their offerings within the E-commerce platform.
-'Interaction of Customer with Products:' Customers engage with the platform by exploring product categories, searching for specific items, and adding desired products to their shopping carts. The system provides options for viewing detailed product information, applying discounts, and completing orders, providing a seamless experience for users.
+# Interaction of Customer with Products:
+Customers engage with the platform by exploring product categories, searching for specific items, and adding desired products to their shopping carts. The system provides options for viewing detailed product information, applying discounts, and completing orders, providing a seamless experience for users.
 
 # Admin Role in Product Management:
 Admins have a pivotal role in overseeing and managing the E-commerce platform. They can monitor user accounts, address authentication, and play a crucial role in maintaining the integrity of the system. Admins also have the ability to add other admins, ensuring a secure and well-regulated environment. They manage product categories, oversee vendor activities, and intervene if issues arise, contributing to the overall efficiency and security of the platform.
